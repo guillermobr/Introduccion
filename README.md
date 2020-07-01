@@ -1,2 +1,2 @@
-# Indroduccion
-Modulo Indroduccion del curso UCEMA-QUANt 2020
+# Introduccion
+Modulo Introduccion del curso UCEMA-QUANt 2020
